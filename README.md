@@ -1,3 +1,4 @@
+![alt text](./cancel.png)
 # Estado privado de Valheim
 
 Panel privado y optimizado para móvil que permite comprobar desde fuera de casa el estado de un servidor dedicado de Valheim y de [Valheim Helper](https://valheim-helper.roariel.workers.dev/).
